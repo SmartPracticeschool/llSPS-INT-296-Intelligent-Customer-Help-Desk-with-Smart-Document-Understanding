@@ -47,3 +47,5 @@ Intelligent Customer Help Desk with Smart Document Understanding
 
 Youtube Video Link: https://youtu.be/MfgM0hwe5cc
 
+Zoho Writer : https://writer.zoho.com/writer/open/dtosf8172c7dfb48644ca9b91fc4963b94622
+
